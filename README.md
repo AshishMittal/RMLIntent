@@ -6,7 +6,7 @@ We share split for two variants
 (i) SPO - where the classes in validation/test set do not overlap with the training set, but speakers do overlap.
 (ii) No-SPO - where the classes and speakers in validation/test set do not overlap with the traininng set.
 
-[1] P. Warden, “Speech commands: A dataset for limited-vocabularyspeech recognition,”CoRR, vol. abs/1804.03209, 2018.
+[1] P. Warden, *Speech commands: A dataset for limited-vocabulary speech recognition*, CoRR, vol. abs/1804.03209, 2018.
 
-[2] L. Lugosch,  M. Ravanelli,  P. Ignoto,  V. S. Tomar,  and Y. Ben-gio, “Speech model pre-training for end-to-end spoken languageunderstanding,”arXiv preprint arXiv:1904.03670, 2019.
+[2] L. Lugosch,  M. Ravanelli,  P. Ignoto,  V. S. Tomar,  and Y. Bengio, *Speech model pre-training for end-to-end spoken language understanding*, arXiv preprint arXiv:1904.03670, 2019.
 
